@@ -12,24 +12,6 @@ Perfect for starting REST APIs with proper structure and tooling already set up.
 
 ---
 
-## 📂 Project Structure
-.
-├── app/
-│ ├── main.go # main API entry
-│ ├── docs/ # Swagger auto-generated docs
-│ └── handlers/ # API handlers (optional)
-│
-├── migration/
-│ └── main.go # migration runner
-│
-├── Makefile
-└── README.md
-
----
-
-
----
-
 ## ⚙️ Requirements
 
 Make sure you have:
