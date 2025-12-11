@@ -1,0 +1,4 @@
+*.exe
+/logs
+go.sum
+/app/docs
